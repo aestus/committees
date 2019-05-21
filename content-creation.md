@@ -4,13 +4,14 @@ The content creation committee supports Techlahoma's Conference & Events, User G
 
 ## Members
 * **Chair**: Kimberly Collins
+* **2nd Chair**: Volunteer Needed
 * Aaron Krauss
 * Alex Adriaanse
 * Kristin Garcia
 * Mike Mattice
 * Ryan Johnson
 
-[Teams](https://github.com/techlahoma/broadcasting/blob/master/teams.md)
+[Teams](https://github.com/techlahoma/broadcasting/blob/master/Teams/teams.md)
 
 [Documentation](https://github.com/techlahoma/broadcasting)
 
