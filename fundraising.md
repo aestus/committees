@@ -4,6 +4,7 @@ Focused on raising funds from membership and corporate sponsors to support Techl
 ## Members
 * **Chair**: Lucas Watson 
 * Luke Crouch
+* Tommy Yi
 
 ## Core Responsibilities
 * Support the activities of the Techlahoma programs, specifically in their fundraising needs & efforts.
